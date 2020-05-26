@@ -6,6 +6,7 @@ So far, I have included:
 * ReLu and sigmoid activation layers,
 * Sum of squares and cross entropy loss functions,
 * Adam, rmsprop, momentum accelerators
+* L1 and L2 regularizers
 * Stochastic and mini batch gradient descents
 
 ## Future work
